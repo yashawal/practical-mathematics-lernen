@@ -1,4 +1,4 @@
-# Formal Methods in Security  
+# Formal Methods in Security  (Model Checker)
 **Büchi Automata**:  
 - Used to model infinite behaviors (e.g., repeated login attempts).  
 - Example: Authentication protocol states and transitions.  
