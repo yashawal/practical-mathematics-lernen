@@ -1,5 +1,5 @@
 """
-Radix Sort implementation for analyzing network packet sizes with security logging.
+Radix Sort Implementation for Network Packet Size Analysis of Security Log
 """
 def radix_sort(arr):
     # Security check: Validate input to prevent malicious data
@@ -35,7 +35,7 @@ def counting_sort(arr, exp):
     for i in range(n):
         arr[i] = output[i]
 
-# Example: Simulate sorting packet sizes (in bytes) from a network log
+# Example: Sort packet sizes (in bytes) in a network log
 if __name__ == "__main__":
     packet_sizes = [1500, 45, 1024, 78, 512, 9000]  # Common MTU sizes + outliers
     print("Original packet sizes:", packet_sizes)
