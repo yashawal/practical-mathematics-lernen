@@ -12,8 +12,8 @@ A repository for learning some practical mathematics for the fulfillment of Mast
 
 ## Self-Study Summaries  
 - **Discrete Mathematics**: Truth tables, induction, proofs  
-- **Automata Theory**: DFA/NFA design, applied to network intrusion detection ([example](SecurePacketAnalyzer/self_study_summary.md))  
-- **Formal Methods**: Linear-Time Logic (LTL) and Büchi automata, their application to protocol verification ([details](ModelChecker/formal_methods_summary.md))  
+- **Automata Theory**: DFA/NFA design, applied to network intrusion detection ([example](self_study_summary.md))  
+- **Formal Methods**: Linear-Time Logic (LTL) and Büchi automata, their application to protocol verification ([details](formal_methods_summary.md))  
 - **Algorithms**: Graph traversals, sorting, analysis of complexity  
 
 ---  
