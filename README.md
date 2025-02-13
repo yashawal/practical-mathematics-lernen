@@ -17,5 +17,3 @@ A repository for learning some practical mathematics for the fulfillment of Mast
 - **Algorithms**: Graph traversals, sorting, analysis of complexity  
 
 ---  
-
-### **New Directory Structure**  
