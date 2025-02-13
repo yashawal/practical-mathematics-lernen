@@ -1,10 +1,11 @@
-# MSc Informatics Preparation
-This repository documents my preparation for the MSc program, focusing on algorithms and data structures.
+# Masters-Preparation  
+A repository showcasing projects and self-study materials for MSc applications in Computer Science.  
 
-## Problems Solved
-1. **[Two Sum](Two-Sum/)**: Hash map approach with O(n) time.
-2. **[Reverse Linked List](Reverse-Linked-List/)**: Iterative pointer reversal.
+## Projects  
+1. **SecurePacketAnalyzer**: Radix Sort implementation for network packet analysis with security checks.  
+2. [Add future projects here]  
 
-## Purpose
-- Address gaps in theoretical CS required for MSc.
-- Show proficiency in algorithmic problem-solving.
+## Self-Study Summaries  
+- Discrete Mathematics  
+- Automata Theory  
+- Algorithms  
