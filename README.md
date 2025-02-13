@@ -8,7 +8,7 @@ A repository for learning some practical mathematics for the fulfillment of Mast
 
 2. **Security Protocol Model Checker**: Security protocol verification via Linear Temporal Logic (LTL) and Büchi automata  
    - **Key Skills:** Formal methods (automata, temporal logic), security, research alignment  
-   - [Code](Checker/model_checker.py)  
+   - [Code](model_checker.py)  
 
 ## Self-Study Summaries  
 - **Discrete Mathematics**: Truth tables, induction, proofs  
