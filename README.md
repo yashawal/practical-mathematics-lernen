@@ -1,5 +1,5 @@
-# Masters-Preparation  
-A repository for learning some practical mathematics for the enhancement of Masters Application.  
+# Practical mathematics lernen  
+A repository for learning some practical mathematics for the enhancement of technical knowledge and skills.  
 
 ## Projects  
 1. **SecurePacketAnalyzer**: An implementation of Radix Sort for security analysis for network packets  
